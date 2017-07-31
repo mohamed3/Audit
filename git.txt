@@ -1,0 +1,32 @@
+git init
+git config --global user.name "med"
+git config --global user.email "rezguimohamed3@gmail.com"
+git config --global core.autocrlf true
+
+git status
+
+
+git add file1.txt
+git commit -m "create file1"
+
+
+git log
+git show c984
+
+
+git add -A //(all file)
+git commit -m "add all file"
+
+git checkout file1.txt  //retour
+
+git branch
+git branch dev  // cree une branche
+
+git checkout dev   // changement de branche
+
+
+git checkout master
+git merge dev        // copie de branche dev en master
+
+git commit // en cas de conflit
+echap :q

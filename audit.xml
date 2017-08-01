@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+            <name>Audit de Securité Informatique</name>
+            <key>Vulnerability Scanner </key>
+            <state>stable</state> <!-- stable | unstable | beta | alpha -->
+            <logo></logo>
+            <description>
+               <short>
+                  <fr> un plugin de sécurité informatique. Il signale les faiblesses potentielles ou avérées sur les machines testées</fr>
+                  <en>A computer security plugin. It points out potential or proven weaknesses on the machines tested</en>
+               </short>
+               <long>
+                  <fr> un plugin de sécurité informatique. Il signale les faiblesses potentielles ou avérées sur les machines testées</fr>
+                  <en>A computer security plugin. It points out potential or proven weaknesses on the machines tested</en>
+               
+               </long>
+            </description>
+            <homepage>https://github.com/mohamed3/Audit</homepage>
+            <download>https://github.com/mohamed3/Audit/releases</download>
+            <issues>https://github.com/mohamed3/Audit/issues</issues>
+            <readme>https://github.com/mohamed3/Audit/wiki</readme>
+            <authors>
+               <author>Rezgui Mohamed</author>
+            </authors>
+            <versions>
+               <version>
+                  <num>1.0</num>
+                  <compatibility>0.85</compatibility>
+               </version>
+            </versions>
+            <langs>
+				<lang>cs_CZ</lang>
+				<lang>de_DE</lang>
+				<lang>en_GB</lang>
+				<lang>es_AR</lang>
+				<lang>es_ES</lang>
+				<lang>fr_FR</lang>
+				<lang>pl_PL</lang>
+				<lang>pt_BR</lang>
+				<lang>ro_RO</lang>
+				<lang>ru_RU</lang>
+				<lang>tr_TR</lang>
+            </langs>
+            <license>GPL v2+</license>
+            <tags>
+               <fr>
+                  <tag>Scan</tag>
+				  <tag>Vulnerabilites</tag>
+               </fr>
+               <en>
+                  <tag>Scan</tag>
+				  <tag>Vulnerability</tag>
+               </en>
+            </tags>
+            <!--<screenshots>
+               <screenshot>http://link/to/your/screenshot</screenshot>
+               <screenshot>http://link/to/your/screenshot</screenshot>
+               <screenshot>...</screenshot>
+            </screenshots>-->
+         </root>

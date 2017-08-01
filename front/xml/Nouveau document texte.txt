@@ -1,0 +1,1 @@
+smbclient -U administrateur%preprod123# //200.1.1.22/xml -c 'put "Siege.nessus"' 

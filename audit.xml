@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-            <name>Audit de Securité Informatique</name>
+            <name>Audit de SecuritÃ© Informatique</name>
             <key>Vulnerability Scanner </key>
             <state>stable</state> <!-- stable | unstable | beta | alpha -->
-            <logo></logo>
+            <logo>https://github.com/mohamed3/Audit/blob/master/audit.png</logo>
             <description>
                <short>
-                  <fr> un plugin de sécurité informatique. Il signale les faiblesses potentielles ou avérées sur les machines testées</fr>
+                  <fr> un plugin de sÃ©curitÃ© informatique. Il signale les faiblesses potentielles ou avÃ©rÃ©es sur les machines testÃ©es</fr>
                   <en>A computer security plugin. It points out potential or proven weaknesses on the machines tested</en>
                </short>
                <long>
-                  <fr> un plugin de sécurité informatique. Il signale les faiblesses potentielles ou avérées sur les machines testées</fr>
+                  <fr> un plugin de sÃ©curitÃ© informatique. Il signale les faiblesses potentielles ou avÃ©rÃ©es sur les machines testÃ©es</fr>
                   <en>A computer security plugin. It points out potential or proven weaknesses on the machines tested</en>
                
                </long>
